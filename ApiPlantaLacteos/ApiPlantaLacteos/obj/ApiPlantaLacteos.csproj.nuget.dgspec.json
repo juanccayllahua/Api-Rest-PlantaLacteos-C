@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jcayllah\\Source\\repos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jcayllah\\Source\\repos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jcayllah\\Source\\repos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos.csproj",
+        "projectName": "ApiPlantaLacteos",
+        "projectPath": "C:\\Users\\jcayllah\\Source\\repos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos.csproj",
+        "packagesPath": "C:\\Users\\jcayllah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jcayllah\\Source\\repos\\ApiPlantaLacteos\\ApiPlantaLacteos\\ApiPlantaLacteos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jcayllah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
